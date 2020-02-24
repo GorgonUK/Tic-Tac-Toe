@@ -27,7 +27,7 @@ three of their marks in a horizontal, vertical, or diagonal row is the winner.Th
 Use `cd` to navigate to the project folder
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-![](ngserve.gif)
+
 
 ## More options
 
