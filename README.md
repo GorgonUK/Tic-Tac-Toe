@@ -1,14 +1,16 @@
 # Tic Tac Toe made with Angular
 
-<img src="https://raw.githubusercontent.com/GorgonUK/tic-tac-toe/master/logo.png" align="right"
-     title="Size Limit logo by Anton Lovchikov" width="150" height="150">
+<img src="https://i1.lensdump.com/i/jj9rvq.png" align="right"
+     title="Tic Tac Toe by George Kontus" width="200" height="60">
      
 ![npm](https://img.shields.io/npm/v/node?color=%238BC500&label=Node.js&style=for-the-badge)
 ![npm](https://img.shields.io/npm/v/npm?color=%238BC500&label=NPM&style=for-the-badge)
 ![npm](https://img.shields.io/npm/v/@angular/cli?color=%238BC500&label=angular%20cli&style=for-the-badge)
 ![NPM](https://img.shields.io/npm/l/@angular/cli?style=for-the-badge)
 
-Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players,
+X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing
+three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
 ### Prerequisites
 
