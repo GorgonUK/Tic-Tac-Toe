@@ -1,12 +1,14 @@
-<h1 class="cp">Current Player</h1>
-<div><h1 class="cpv">{{ player }}</h1></div>
 
+<h1 class="cpv d-inline">{{ player }}</h1>
+<h1 class="cp d-inline">'s</h1>
+<h1 class="cp d-inline"> turn</h1>
+<br>
 <button class="btn btn-light-green btn-lg text-white startgame" (click)="newGame()">Start new Game</button>
 <br>
 <br>
 
-<h2 *ngIf="winner" class="font-weight-bold text-success">
-    Player {{ winner }} won the game!
+<h2 *ngIf="winner" class="text-success">
+    <h1 class="font-weight-bold text-green"> {{ winner }}</h1> WINS!
 </h2>
 
 
