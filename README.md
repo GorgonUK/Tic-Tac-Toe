@@ -1,7 +1,7 @@
 # Tic Tac Toe made with Angular
 
-<img src="https://i1.lensdump.com/i/jjVa5z.png" align="right"
-     title="Size Limit logo by Anton Lovchikov" width="150" height="150">
+<img src="https://i1.lensdump.com/i/jj9rvq.png" align="right"
+     title="Tic Tac Toe by George Kontus" width="200" height="60">
      
 ![npm](https://img.shields.io/npm/v/node?color=%238BC500&label=Node.js&style=for-the-badge)
 ![npm](https://img.shields.io/npm/v/npm?color=%238BC500&label=NPM&style=for-the-badge)
