@@ -45,7 +45,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Built With
 
-* [Angular](https://angular.io/) - Front-end Framework
+* [Angular](https://angular.io/) - JavaScript Framework
 * [Webpack](https://webpack.js.org/) - JavaScript module bundler
 * [Node.js](https://nodejs.org) - JavaScript runtime environment
 
