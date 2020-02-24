@@ -1,6 +1,6 @@
 # Tic Tac Toe made with Angular
 
-<img src="https://raw.githubusercontent.com/GorgonUK/tic-tac-toe/master/logo.png" align="right"
+<img src="https://raw.githubusercontent.com/GorgonUK/Tic-Tac-Toe/master/logo.png" align="right"
      title="Size Limit logo by Anton Lovchikov" width="150" height="150">
      
 ![npm](https://img.shields.io/npm/v/node?color=%238BC500&label=Node.js&style=for-the-badge)
