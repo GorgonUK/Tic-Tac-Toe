@@ -43,6 +43,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## FAQ
+If you are getting a list of errors on `npm install` that look like `Cannot find name 'Promise'`, check your `package.json` file and see if the following DevDependencies have a caret in front of the version number (the ^ symbol):
+```json
+"devDependencies": {
+  
+  "@types/core-js": "0.9.34",
+  "@types/node": "6.0.41"
+  
+}
+```
+If the caret is there (would look like `"@types/core-js": "^0.9.34"`) then remove it (or copy the contents of the [package.json](https://github.com/GorgonUK/Tic-Tac-Toe/blob/master/package.json) file on the origin repository) and run `npm install` again.
+
 ## Built With
 
 * [Angular](https://angular.io/) - JavaScript Framework
